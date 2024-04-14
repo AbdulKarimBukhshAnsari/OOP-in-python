@@ -1,8 +1,9 @@
 #you can define the class like that 
-
+"""Class is the blueprint for creating the object , Blue print defines the property which defines 
+the property which you need"""
 class Student:
     name = "Karim"
-
+"""Objects are the instances of the class or we can say the members of the class"""
 #you can define the object like that 
 s_1 = Student()
 
